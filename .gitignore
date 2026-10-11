@@ -1,0 +1,7 @@
+# Build output
+*.o
+router
+
+# Simulation output
+hosts_output
+router_*
